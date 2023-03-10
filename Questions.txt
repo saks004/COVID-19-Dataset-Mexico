@@ -1,0 +1,11 @@
+## Questions to ask from the data set?
+
+Percentage of the people were hospitalised?
+Percentage of people hospitalised and were not admitted in the ICU and vice verssa?
+Out of people who were admitted in the ICU, Percentage of the people were Intubed? and how many were not Intubed? 
+How many people were admitted in the ICU?
+Out of all who were admitted in ICU were Infants, Children, Adults, and Elderly?
+Percentage of people in the ICU who were intubed and did not die?
+Did covid affect more to smokers than non smokers? 
+Create a function ML model that checks that, given a Covid-19 patient's current symptom(check for pneumonia), status (returned/admitted/ICU/Vent), and medical history, will predict whether the patient is in high risk or not.
+
